@@ -9,6 +9,7 @@
 <%@ page import="com.mytechnopal.util.*" %>
 <%@ page import="com.mytechnopal.webcontrol.*" %>
 <html>
+
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8"> 
 	<script type="text/javascript" src="common/jquery.min.js"></script>
